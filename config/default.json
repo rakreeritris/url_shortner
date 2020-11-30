@@ -1,0 +1,4 @@
+{
+    "mongoURL":" mongodb+srv://ritik:Ritik@123@cluster0.a01el.mongodb.net/urlshortner?retryWrites=true&w=majority",
+    "baseUrl":"http://localhost:5000"
+}
